@@ -45,7 +45,7 @@ Bạn có các quyền sau đối với dữ liệu của mình:
 *   Tắt tính năng phân tích dữ liệu trong phần cài đặt hệ thống.
 *   **Yêu cầu xóa dữ liệu:** Bạn có thể yêu cầu xóa thông tin góp ý đã gửi bất kỳ lúc nào bằng cách:
     1. Liên hệ qua chức năng "Góp ý" trong ứng dụng.
-    2. Hoặc gửi email về địa chỉ: **contact.thetis@gmail.com** (Vui lòng ghi rõ nội dung bạn muốn xóa để chúng tôi hỗ trợ nhanh nhất).
+    2. Hoặc gửi email về địa chỉ: **thetisapp@gmail.com** (Vui lòng ghi rõ nội dung bạn muốn xóa để chúng tôi hỗ trợ nhanh nhất).
 Chúng tôi cam kết thực hiện yêu cầu xóa dữ liệu của bạn trong vòng 7 ngày làm việc.
 
 ## 7. Thay đổi Chính sách
