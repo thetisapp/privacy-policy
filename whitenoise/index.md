@@ -8,7 +8,7 @@
 
 Ứng dụng của chúng tôi được thiết kế để hoạt động với sự thu thập dữ liệu tối giản nhất:
 
-*   **Thông tin do bạn cung cấp:** Chúng tôi thu thập nội dung góp ý (feedback) khi bạn gửi qua chức năng "Góp ý" trong phần Cài đặt. Thông tin này chỉ được dùng để cải thiện ứng dụng.
+*   **Thông tin do bạn cung cấp:** Chúng tôi thu thập nội dung góp ý (feedback) khi bạn gửi qua chức năng "Góp ý" trong phần Cài đặt. Thông tin thu thập bao gồm: nội dung góp ý, thời gian gửi, loại thiết bị và phiên bản hệ điều hành.
 *   **Dữ liệu sử dụng và Phân tích (Analytics):** Chúng tôi sử dụng Google Firebase Analytics để thu thập các thông tin ẩn danh như: các tính năng được sử dụng nhiều nhất, thời gian sử dụng, và loại thiết bị. Chúng tôi **không** thu thập ID quảng cáo (Ad-ID) hay thông tin định danh cá nhân thông qua dịch vụ này.
 *   **Dữ liệu Lỗi (Crashlytics):** Chúng tôi sử dụng Firebase Crashlytics để thu thập báo cáo lỗi ẩn danh giúp khắc phục các sự cố kỹ thuật.
 
@@ -29,20 +29,29 @@ Chúng tôi không bán hay chia sẻ thông tin cá nhân của bạn cho bất
 *   [Chính sách bảo mật của Google Play Services](https://www.google.com/policies/privacy/)
 *   [Chính sách bảo mật của Firebase](https://firebase.google.com/support/privacy)
 
-## 4. Bảo mật dữ liệu
+## 4. Lưu trữ dữ liệu (Data Retention)
+
+Chúng tôi chỉ lưu giữ dữ liệu của bạn trong thời gian cần thiết:
+*   **Thông tin góp ý:** Được lưu trữ tối đa 24 tháng để phục vụ việc cải thiện ứng dụng, sau đó sẽ được xóa bỏ hoàn toàn.
+*   **Dữ liệu phân tích và lỗi:** Được lưu trữ theo chính sách mặc định của Google Firebase (thường là 14-26 tháng).
+
+## 5. Bảo mật dữ liệu
 
 Chúng tôi thực hiện các biện pháp kỹ thuật cần thiết để bảo vệ thông tin ẩn danh mà chúng tôi thu thập. Vì Ứng dụng không yêu cầu tạo tài khoản, chúng tôi không lưu trữ mật khẩu hay thông tin định danh trực tiếp của bạn trên máy chủ.
 
-## 5. Quyền của người dùng
+## 6. Quyền của người dùng và Xóa dữ liệu
 
-Bạn có quyền:
-*   Tắt tính năng phân tích dữ liệu trong phần cài đặt hệ thống (nếu có).
-*   Yêu cầu xóa các thông tin góp ý đã gửi bằng cách liên hệ với chúng tôi.
+Bạn có các quyền sau đối với dữ liệu của mình:
+*   Tắt tính năng phân tích dữ liệu trong phần cài đặt hệ thống.
+*   **Yêu cầu xóa dữ liệu:** Bạn có thể yêu cầu xóa thông tin góp ý đã gửi bất kỳ lúc nào bằng cách:
+    1. Liên hệ qua chức năng "Góp ý" trong ứng dụng.
+    2. Hoặc gửi email về địa chỉ: **contact.thetis@gmail.com** (Vui lòng ghi rõ nội dung bạn muốn xóa để chúng tôi hỗ trợ nhanh nhất).
+Chúng tôi cam kết thực hiện yêu cầu xóa dữ liệu của bạn trong vòng 7 ngày làm việc.
 
-## 6. Thay đổi Chính sách
+## 7. Thay đổi Chính sách
 
 Chúng tôi có thể cập nhật chính sách này theo thời gian. Mọi thay đổi sẽ được cập nhật trực tiếp tại đây.
 
-## 7. Liên hệ
+## 8. Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này, vui lòng liên hệ với chúng tôi qua chức năng "Góp ý" trong Ứng dụng.
+Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này, vui lòng liên hệ với chúng tôi qua chức năng "Góp ý" trong Ứng dụng hoặc email: **contact.thetis@gmail.com**.
